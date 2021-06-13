@@ -27,7 +27,7 @@ public class MahasiswaBeraksi {
 
         System.out.println("Nama \t\t\t : "+ mahasiswa2.nama);
         System.out.println("NPM \t\t\t : "+ mahasiswa2.npm);
-        System.out.println("Tanggal Lahir \t\t\t : "+ mahasiswa2.tanggalLahir);
+        System.out.println("Tanggal Lahir \t : "+ mahasiswa2.tanggalLahir);
 
     }
 }
