@@ -34,6 +34,7 @@ public class Mahasiswa {
 
         System.out.println("Nama \t\t\t : "+ this.nama);
         System.out.println("NPM \t\t\t : "+ this.npm);
+        System.out.println("Tanggal Lahir : \t " + simpleDateFormat);
     }
 
     String getNama(){
